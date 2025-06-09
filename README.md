@@ -27,3 +27,8 @@ Shania Damar
  damarshania54@gmail.com
  WhatsApp: 0745-789-563
 
+## 🛡️ License
+
+This project is licensed under the MIT License.
+
+You are free to use, copy, modify, merge, publish, and distribute the code, with proper attribution to the original author.
