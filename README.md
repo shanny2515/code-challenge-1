@@ -25,7 +25,6 @@ node chai.js   # For tea ingredient list
 
 Shania Damar
  damarshania54@gmail.com
- WhatsApp: 0745-789-563
 
 ## 🛡️ License
 

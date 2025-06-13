@@ -10,7 +10,7 @@ process.stdin.on('data', (inpt) =>{  //here this is like a listener so by typing
     }else if (transactionFee > 70){
         transactionFee = 70
     }
-    // finally the final amount to be debited and its also broken down 
+    // finally the final amount to be debited and its broken down 
     let totalAmount =  amountToSend +  transactionFee
     console.log (`    Sending KES ${amountToSend} 
     Calculated Transaction Fee: KES ${transactionFee}
